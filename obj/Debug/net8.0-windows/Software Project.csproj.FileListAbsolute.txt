@@ -1,0 +1,17 @@
+C:\Users\lione\Documents\Software Project\Software Project\bin\Debug\net8.0-windows\Software Project.exe
+C:\Users\lione\Documents\Software Project\Software Project\bin\Debug\net8.0-windows\Software Project.deps.json
+C:\Users\lione\Documents\Software Project\Software Project\bin\Debug\net8.0-windows\Software Project.runtimeconfig.json
+C:\Users\lione\Documents\Software Project\Software Project\bin\Debug\net8.0-windows\Software Project.dll
+C:\Users\lione\Documents\Software Project\Software Project\bin\Debug\net8.0-windows\Software Project.pdb
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software_Project.Form1.resources
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.csproj.GenerateResource.cache
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.AssemblyInfoInputs.cache
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.AssemblyInfo.cs
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.csproj.CoreCompileInputs.cache
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.dll
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\refint\Software Project.dll
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.pdb
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software Project.genruntimeconfig.cache
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\ref\Software Project.dll
+C:\Users\lione\Documents\Software Project\Software Project\obj\Debug\net8.0-windows\Software_Project.Form2.resources
